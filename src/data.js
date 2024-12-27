@@ -3,7 +3,7 @@ export const sliderItems = [
     id: "1",
     img: "assets/braclet/main.jfif",
     title: "Helm charts have been successfully configured using ArgoCD",
-    desc: "This is now in new commit",
+    desc: "Testing the bash scripts",
     bg: "green",
   },
   {
